@@ -1,4 +1,4 @@
-# 🤖 State-Action Value Function Visualization – Mars Rover Example
+# 🤖 State-Action Value Function Visualization – Mars Rover Exp
 
 ## 📌 Project Overview
 
