@@ -1,18 +1,19 @@
-# 🤖 State-Action Value Function Visualization – Mars Rover Exp
+# 🤖 Visualizing the State-Action Value Function – Mars Rover Example
 
-## 📌 Project Overview
+## 📌 Project Summary
 
-This project demonstrates how the **state-action value function** $Q(s, a)$ evolves in a simple **Markov Decision Process (MDP)** using a Mars Rover example.
+This project explores how the **state-action value function** \$Q(s, a)\$ changes within a basic **Markov Decision Process (MDP)**, illustrated through a Mars Rover scenario.
 
-We visualize how varying parameters like **reward values**, **discount factor ($\gamma$)**, and **misstep probability** affect the Q-values across different states and actions.
+The visualization highlights the impact of different parameters—such as **reward settings**, **discount factor (\$\gamma\$)**, and **misstep probability**—on Q-values for various states and actions.
 
 ---
 
-## 🧠 Core Concepts
+## 🧠 Key Ideas
 
-* **Q(s, a):** Expected return of taking action `a` in state `s` and following an optimal policy thereafter.
-* **Gamma (γ):** Discount factor that controls the importance of future rewards.
-* **Misstep Probability:** Probability of the agent taking the wrong action due to uncertainty.
+* **Q(s, a):** Represents the expected return when taking action `a` in state `s` and continuing with the optimal policy.
+* **Gamma (γ):** The discount factor that determines the weight of future rewards.
+* **Misstep Probability:** The likelihood that the agent executes an unintended action due to uncertainty.
+
 
 ---
 
