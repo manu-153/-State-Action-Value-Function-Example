@@ -1,6 +1,6 @@
 # Visualizing the State-Action Value Function – Mars Rover Example
 
-## 📌 Project Summary
+
 
 This project explores how the **state-action value function** \$Q(s, a)\$ changes within a basic **Markov Decision Process (MDP)**, illustrated through a Mars Rover scenario.
 
