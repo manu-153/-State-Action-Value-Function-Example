@@ -8,7 +8,7 @@ The visualization highlights the impact of different parameters—such as **rewa
 
 ---
 
-## 🧠 Key Ideas
+## Key Ideas
 
 * **Q(s, a):** Represents the expected return when taking action `a` in state `s` and continuing with the optimal policy.
 * **Gamma (γ):** The discount factor that determines the weight of future rewards.
