@@ -80,7 +80,7 @@ generate_visualization(
 
 ## ✅ Requirements
 
-* Python 3.x
+* Python 3.
 * NumPy
 * Matplotlib (or any other visualization library used in `utils.py`)
 
