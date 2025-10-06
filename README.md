@@ -17,7 +17,7 @@ The visualization highlights the impact of different parameters—such as **rewa
 
 ---
 
-## ⚙️ Parameters
+##  Parameters
 
 ```python
 num_states = 6               # Number of states in the grid
@@ -31,7 +31,7 @@ misstep_prob = 0             # Probability of unintended action
 
 ---
 
-## 📊 Example Code
+##  Example Code
 
 ```python
 import numpy as np
@@ -55,7 +55,7 @@ generate_visualization(
 
 ---
 
-## 🔍 What You’ll See
+## What You’ll See
 
 * A visual representation of the Mars Rover’s state space
 * Arrows or heatmaps showing the value of Q(s, a) for each action
@@ -67,7 +67,7 @@ generate_visualization(
 
 ---
 
-## 📦 File Structure
+## File Structure
 
 ```
 .
@@ -78,7 +78,7 @@ generate_visualization(
 
 ---
 
-## ✅ Requirements
+## Requirements
 
 * Python 3.
 * NumPy
@@ -92,14 +92,14 @@ pip install numpy matplotlib
 
 ---
 
-## 📚 References
+## References
 
 * Sutton & Barto: "Reinforcement Learning: An Introduction"
 * OpenAI Gym for MDP design inspiration
 
 ---
 
-## 🧠 Further Exploration
+## Further Exploration
 
 * Add stochastic transitions with higher `misstep_prob`
 * Try different reward structures
